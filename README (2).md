@@ -15,11 +15,11 @@
   <img src="https://github.com/khadidja19ath&style=flat-square&color=A78BFA" alt="profile views"/>
   &nbsp;
   <a href="http://www.linkedin.com/in/ait-hocine-khadidja-222a38408">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=khadidj19ath&style=flat-square&color=A78BFA" alt="Profile Views"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://aithocinekhadidja19@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="mailto:aithocinekhadidja19@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
