@@ -66,13 +66,12 @@ ahla = {
 **📊 BI & Data Visualization**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **🗃️ Databases & Optimization**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GLPK / GUSEK](https://img.shields.io/badge/GUSEK%20%2F%20GLPK-2E4057?style=for-the-badge&logo=gnu&logoColor=white)
+![GUSEK](https://img.shields.io/badge/GUSEK%20%2F%20GLPK-2E4057?style=for-the-badge&logo=gnu&logoColor=white)
 
 **🚀 Dev & Deployment**
 
