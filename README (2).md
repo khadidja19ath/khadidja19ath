@@ -12,9 +12,9 @@
 
 <!-- Profile views + social -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=A78BFA" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=khadidja19ath&style=flat-square&color=A78BFA" alt="profile views"/>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="http://www.linkedin.com/in/ait-hocine-khadidja-222a38408">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
