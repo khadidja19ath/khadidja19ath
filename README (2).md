@@ -19,7 +19,7 @@
   </a>
   &nbsp;
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/aithocinekhadidja19@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://aithocinekhadidja19@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
