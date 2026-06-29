@@ -144,8 +144,8 @@ ahla = {
 
 **Open to:** Remote Data Analyst · AI/ML Engineer roles · Research Collaborations
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="http://www.linkedin.com/in/ait-hocine-khadidja-222a38408?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="http://www.linkedin.com/in/ait-hocine-khadidja-222a38408">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
