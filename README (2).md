@@ -133,8 +133,6 @@ ahla = {
 
 - 🤖 Deep Learning for Medical Imaging (CNNs, Transfer Learning)
 - 📈 Advanced Feature Engineering for Churn & Fraud Detection  
-- ☁️ Cloud Fundamentals (Azure · AWS) for Gulf market readiness
-- 📜 IBM Data Analyst Professional Certification *(in progress)*
 
 ---
 
@@ -147,7 +145,7 @@ ahla = {
 **Open to:** Remote Data Analyst · AI/ML Engineer roles · Research Collaborations
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="http://www.linkedin.com/in/ait-hocine-khadidja-222a38408?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
