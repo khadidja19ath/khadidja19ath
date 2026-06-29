@@ -12,14 +12,14 @@
 
 <!-- Profile views + social -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=khadidja19ath&style=flat-square&color=A78BFA" alt="profile views"/>
+  <img src="https://github.com/khadidja19ath&style=flat-square&color=A78BFA" alt="profile views"/>
   &nbsp;
   <a href="http://www.linkedin.com/in/ait-hocine-khadidja-222a38408">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/aithocinekhadidja19@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
